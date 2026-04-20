@@ -5,7 +5,7 @@
 </table>
 
 
-    ** Simulation de feu tricolore avec un passage pieton **
+    Simulation de feu tricolore avec un passage pieton
     
     feu vert tricolore (voiture) sur broche 10,  allumée pendant 3s
     feu orange tricolore sur broche 11, allumée pendant 1s
