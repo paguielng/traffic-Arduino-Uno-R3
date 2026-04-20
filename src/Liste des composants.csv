@@ -1,0 +1,6 @@
+﻿Nom,Quantité,Composant
+"D1,1,""Rouge LED"""
+"D2,1,""Orange LED"""
+"D3,1,""Vert LED"""
+"U1,1,"" Arduino Uno R3"""
+"R1, R2, R3,3,""200 Ω Résistance"""
